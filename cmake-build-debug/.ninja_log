@@ -1,0 +1,15 @@
+# ninja log v5
+1722	2030	7290838477086094	untitled1.exe	ba8ee49b62eb9f94
+17	2675	7290841321524791	CMakeFiles/Azmir.dir/main.cpp.obj	9719acf35621bbfc
+6	380	7290842125533398	build.ninja	ace2ab56f5d73cf2
+12	2780	7290841322571713	CMakeFiles/Azmir.dir/class/ColumnarTransposition.cpp.obj	f7066d134464e24b
+5	2650	7290841321263381	CMakeFiles/Azmir.dir/class/RailFenceCipher.cpp.obj	25b0482a1847ebf1
+1	699	7290841301713254	CMakeFiles/Azmir.dir/class/TranspositionCipher.cpp.obj	311e61a7242cc2a8
+8	1455	7290841309285786	CMakeFiles/Azmir.dir/class/Myszkowski.cpp.obj	672a400a5c2b5daa
+2780	3053	7290841325190630	Azmir.exe	3b7c3167b5a20810
+22	993	7290842360548767	CMakeFiles/Azmir.dir/class/TranspositionCipher.cpp.obj	17933f0134100223
+38	1866	7290842369265339	CMakeFiles/Azmir.dir/class/Myszkowski.cpp.obj	10b68c773848b78b
+31	3306	7290842383721500	CMakeFiles/Azmir.dir/class/RailFenceCipher.cpp.obj	b4c686a39d99b34c
+16	3367	7290842384332548	CMakeFiles/Azmir.dir/main.cpp.obj	6fb12dea0a8d9b46
+8	3415	7290842384792522	CMakeFiles/Azmir.dir/class/ColumnarTransposition.cpp.obj	30cfaeb2a5114bb0
+3415	3773	7290842388211075	Azmir.exe	3b7c3167b5a20810
