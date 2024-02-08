@@ -5,6 +5,8 @@
 
 using namespace std;
 
+//Note: find the Encryption classes code in class/ folder
+
 //checks for duplicate letter
 bool hasUniqueLetters(string str){
     bool isUnique=true;
